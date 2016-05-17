@@ -20,7 +20,7 @@ Geronimo Mirano
 [Poster](https://github.com/hariharsubramanyam/TrackerData/blob/master/Poster.pdf)
 
 ## Tracker output
-Notice there is no output for the tracker and there is no ground truth. These can be generated using the [ObjectTracker Repo](https://github.com/hariharsubramanyam/ObjectTracker)
+Notice there is no output for the tracker and there is no ground truth. These can be generated using the [ObjectTracker Repo](https://github.com/hariharsubramanyam/ObjectTracker). We have not included the files because generating them for different scales and perspective transforms would yield many extra files.
 
 ## Videos
 [Chem1](https://youtu.be/Udk7YJRnn10)
