@@ -26,6 +26,10 @@ The **cleaned** inertial data is in each folder. The name of the file indicates 
 Notice there is no output for the tracker and there is no ground truth. These can be generated using the [ObjectTracker Repo](https://github.com/hariharsubramanyam/ObjectTracker). We have not included the files because generating them for different scales and perspective transforms would yield many extra files.
 
 ## Videos
+[Demo Video - Walker 1 without HMM](https://www.youtube.com/watch?v=xpYapyIJEPw&list=PLFIqHUP4pFcmnJPeBiSrUFxtCPGzVGleV&index=1)  
+
+[Demo Video - Walker 1 with HMM](https://www.youtube.com/watch?v=5pEi4owgFUI&list=PLFIqHUP4pFcmnJPeBiSrUFxtCPGzVGleV&index=2)
+
 [Chem1](https://youtu.be/Udk7YJRnn10)
 
 [Chem 2](https://youtu.be/ve-GIy26XYM)
