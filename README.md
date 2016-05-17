@@ -1,6 +1,9 @@
 # TrackerData
 Data for 6.S062 project
 
+## Poster
+https://github.com/hariharsubramanyam/TrackerData/blob/master/Poster.pdf
+
 ## Tracker output
 Notice there is no output for the tracker and there is no ground truth. These can be generated using the [ObjectTracker Repo](https://github.com/hariharsubramanyam/ObjectTracker)
 
