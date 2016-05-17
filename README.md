@@ -1,8 +1,14 @@
 # TrackerData
 Data for 6.S062 project
 
+## Code
+[Object Tracker + Ground Truth + Evaluator](https://github.com/hariharsubramanyam/ObjectTracker)
+[Inertial](https://bitbucket.org/geronm/motionprocessing/)
+[Matching + Client/Server](https://bitbucket.org/ericlaubitbucket/6s062finalproject)
+
+
 ## Poster
-https://github.com/hariharsubramanyam/TrackerData/blob/master/Poster.pdf
+[Poster](https://github.com/hariharsubramanyam/TrackerData/blob/master/Poster.pdf)
 
 ## Tracker output
 Notice there is no output for the tracker and there is no ground truth. These can be generated using the [ObjectTracker Repo](https://github.com/hariharsubramanyam/ObjectTracker)
