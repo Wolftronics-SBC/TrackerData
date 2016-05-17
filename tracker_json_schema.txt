@@ -1,0 +1,35 @@
+The JSON files for the tracker take the following structure:
+
+{
+    "numFrames": <number of frames in the video>,
+    "width": <width of frame>,
+    "height": <height of frame>,
+    "trackers": [
+        {
+            "trackerId": <unique ID for this tracker>,
+            "birth": <frame that this tracker first appeared>,
+            "track": [
+                [x, y, frame #],
+                [x, y, frame #],
+                ...
+            ]
+        },
+        ...
+    ]
+}
+
+The "trackers" array is sorted by "birth". The "track" array
+for a given tracker is sorted by "frame #".
+
+
+You'll notice that I'm using frame number, instead of absolute timestamp. To
+compute the timestamp from the frame number, you need to do the following:
+
+1. Find the timestamp when we recorded the video (e.g. stata1.txt)
+2. Find the length of the video.
+3. From the two things above, compute the startTimestamp, endTimestamp for
+the video
+4. Note the numFrames for the tracker JSON file.
+5. For a given frame #, approximate the timestamp as follows:
+
+timestamp = startTimestamp + (frame # / numFrames) * (endTimestamp - startTimestamp)
