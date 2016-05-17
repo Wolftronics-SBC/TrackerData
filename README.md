@@ -1,9 +1,18 @@
 # TrackerData
 Data for 6.S062 project
 
+## Project Members
+Harihar Subramanyam
+
+Eric Lau
+
+Geronimo Mirano
+
 ## Code
 [Object Tracker + Ground Truth + Evaluator](https://github.com/hariharsubramanyam/ObjectTracker)
+
 [Inertial](https://bitbucket.org/geronm/motionprocessing/)
+
 [Matching + Client/Server](https://bitbucket.org/ericlaubitbucket/6s062finalproject)
 
 
