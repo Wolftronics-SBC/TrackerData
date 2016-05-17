@@ -2,11 +2,11 @@
 Data for 6.S062 project
 
 ## Project Members
-Harihar Subramanyam
+[Harihar Subramanyam](https://github.com/hariharsubramanyam/)
 
-Eric Lau
+[Eric Lau](https://github.com/a80)
 
-Geronimo Mirano
+[Geronimo Mirano](https://github.com/geronm)
 
 ## Code
 [Object Tracker + Ground Truth + Evaluator](https://github.com/hariharsubramanyam/ObjectTracker)
