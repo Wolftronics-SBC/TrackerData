@@ -1,25 +1,28 @@
 # TrackerData
 Data for 6.S062 project
 
+## Tracker output
+Notice there is no output for the tracker and there is no ground truth. These can be generated using the [ObjectTracker Repo](https://github.com/hariharsubramanyam/ObjectTracker)
+
 ## Videos
-https://youtu.be/Udk7YJRnn10
+[Chem1](https://youtu.be/Udk7YJRnn10)
 
-https://youtu.be/ve-GIy26XYM
+[Chem 2](https://youtu.be/ve-GIy26XYM)
 
-https://youtu.be/Dpw7Vo7aC68
+[Courtyard 1](https://youtu.be/Dpw7Vo7aC68)
 
-https://youtu.be/qC4Af6ba8Ns
+[Courtyard 2](https://youtu.be/qC4Af6ba8Ns)
 
-https://youtu.be/Ofxjbkb28Ns
+[Courtyard 3](https://youtu.be/Ofxjbkb28Ns)
 
-https://youtu.be/pZX60MjFRO8
+[Lobby 7 1](https://youtu.be/pZX60MjFRO8)
 
-https://youtu.be/KpioBkLc0No
+[Stata 2](https://youtu.be/KpioBkLc0No)
 
-https://youtu.be/3UhKfJ0Wzlw
+[Stata 3](https://youtu.be/3UhKfJ0Wzlw)
 
-https://youtu.be/zauSJ2zwwK8
+[Stata 1](https://youtu.be/zauSJ2zwwK8)
 
-https://youtu.be/h7KifH5u3Ag
+[Walker 1](https://youtu.be/h7KifH5u3Ag)
 
-https://youtu.be/RobNPXkgszc
+[Walker 2](https://youtu.be/RobNPXkgszc)
